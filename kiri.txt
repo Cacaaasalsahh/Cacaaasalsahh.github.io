@@ -1,0 +1,43 @@
+<html>
+<head>
+		<title>::: smp setia budi:::</title>
+</head>
+<body bgcolor=#ffffff>
+<table border=1 width="228" height="28" cellspacing=0>
+<tr>
+		<td width="218" height="22" bordercolor="#800080" bgcolor="#BDCED9">
+		<b><font face="Tahoma" size="2">&nbsp;&nbsp; M e n u</font></b>
+		</td>
+</tr>
+<tr>
+		<td width="218" height="22" bordercolor="#800080">
+    	<b><font face="Tahoma" size="2">&nbsp;&nbsp; 
+		<a href=kanan.html target=kanan>H o m e</a></font></b></td>
+</tr>
+<tr>
+		<td width="218" height="22" bordercolor="#800080">
+		<b><font face="Tahoma" size="2">
+		&nbsp;&nbsp; <a href=proli.html target=kanan>Visi Misi</a>
+		</font></b></td>
+</tr>
+<tr>
+		<td width="218" height="22" bordercolor="#800080">
+<b><font face="Tahoma" size="2">
+		&nbsp;&nbsp; <a href=ekstra.html target=kanan>Ekstra Kurikuler</a>
+		</font></b></td>
+</tr>
+<tr>
+		<td width="218" height="22" bordercolor="#800080">
+<b><font face="Tahoma" size="2">
+		&nbsp;&nbsp; <a href=tenpen.html target=kanan>Tenaga Pendidik</a>
+		</font></b></td>
+</tr>
+<tr>
+		<td width="218" height="22" bordercolor="#800080">
+<b><font face="Tahoma" size="2">
+		&nbsp;&nbsp; <a href=Biodata.html target=kanan>Biodata SMP</a>
+		</font></b></td>
+</tr>
+</table>
+</body>
+</html>

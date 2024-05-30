@@ -1,0 +1,11 @@
+<html>
+<head>
+		<title>.:: smp setia budi ::.</title>
+</head>
+<body Background="gambar1.jpg">
+<font face=arial size=6 color=white>
+<center><b>.::: SMP SETIA BUDI :::. </b><br>
+<font face=arial size=4 color=white>
+<i>Tut Wuri Handayani</i></center>
+</body>
+</html>

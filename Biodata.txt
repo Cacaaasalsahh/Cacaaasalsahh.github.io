@@ -1,0 +1,25 @@
+<html>
+<head>
+		<title>::: smp setia budi :::</title>
+</head><body bgcolor=#ffffff>
+<table border=1 bordercolor=bordercolor="#800080" 
+			cellspacing=0  cellpadding=50 width=750 height=450>
+<tr>
+		<td valign=top>
+		<font face=verdana size=5 color=blue>
+		<h3>SMP SETIA BUDI</h3><br>
+		<font size=5>
+		<ul type=circle>
+		<li><h6>Jalan= Jl. Pelangi
+		<li>Desa= Sadara
+		<li>Kecamatan=Pulo Ambang
+		<li>Kabupaten=Brebes
+		<li>PROV=Jawa Tengah
+		<li>FAX=(0283)345678
+		<li>EMAIL=smp_setiabudi@yahoo.co.id</h6>
+</ul>
+</td>
+</tr>
+</body>
+</html>
+	
